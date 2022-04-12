@@ -4,8 +4,7 @@
 
 I ❤ Open Source. I love [Vim](https://www.vim.org/) and [Typescript](https://www.typescriptlang.org/).
 
-- [@ise0615](https://twitter.com/ise0615).
-- Cloud Engineer from Japan.
+- System Engineer from Japan.
 
 ## GitHub Readme Stats
 
