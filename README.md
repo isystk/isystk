@@ -35,6 +35,7 @@
 ---
 
 ## 🔗 Links
+- **Portfolio:** [profile.isystk.com](http://profile.isystk.com/) (Nuxt3 & CircleCI & Vercel),
 - **X (Twitter):** [@ise0615](https://x.com/ise0615)
 
 ---
