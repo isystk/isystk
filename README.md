@@ -1,7 +1,3 @@
-エンジニア採用担当者の目に留まりやすくするために、ソースにある具体的な技術スタックや公開リポジトリの情報を盛り込んだ、より**プロフェッショナルで魅力的なREADME**の修正案を提案します。
-
----
-
 # Hey 👋, I'm Yoshitaka Ise (isystk)
 **Full-stack Engineer / System Engineer based in Tokyo, Japan**,
 
