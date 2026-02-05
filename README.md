@@ -1,5 +1,5 @@
 # Hey 👋, I'm Yoshitaka Ise (isystk)
-**Full-stack Engineer / System Engineer based in Tokyo, Japan**,
+**Full-stack Engineer / System Engineer based in Hokkaido, Japan**,
 
 [![Github](https://img.shields.io/github/followers/isystk?label=Follow&style=social)](https://github.com/isystk)
 
