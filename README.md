@@ -39,12 +39,6 @@
 
 ---
 
-## 📊 GitHub Readme Stats
-
-![isystk's github stats](https://github-readme-stats.vercel.app/api?username=isystk&show_icons=true&count_private=true&line_height=40)
-
----
-
 ### 💡 修正のポイント
 1.  **具体的な技術名の明示:** 単に「システムエンジニア」とするのではなく、ソースにあるPHP、Kotlin、AWS、Docker、CI/CDなどの具体的なキーワードを出し、**フルスタックな能力**をアピールしています,,。
 2.  **ボイラープレートの強調:** `laravel-react-boilerplate` など、他人の学習を助けるプロジェクトを公開している点は、技術力と共有精神の両面で採用者に好印象を与えます,。
