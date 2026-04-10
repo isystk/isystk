@@ -38,9 +38,3 @@
 - **Portfolio:** [profile.isystk.com](http://profile.isystk.com/) (Nuxt3 & CircleCI & Vercel),
 - **X (Twitter):** [@ise0615](https://x.com/ise0615)
 
----
-
-### 💡 修正のポイント
-1.  **具体的な技術名の明示:** 単に「システムエンジニア」とするのではなく、ソースにあるPHP、Kotlin、AWS、Docker、CI/CDなどの具体的なキーワードを出し、**フルスタックな能力**をアピールしています,,。
-2.  **ボイラープレートの強調:** `laravel-react-boilerplate` など、他人の学習を助けるプロジェクトを公開している点は、技術力と共有精神の両面で採用者に好印象を与えます,。
-3.  **ポートフォリオの活用:** ソースにあるポートフォリオサイトは、CircleCIやVercel、Storybookを使用していることが明記されており、**モダンな開発プロセスを理解している**証明として役立ちます。
