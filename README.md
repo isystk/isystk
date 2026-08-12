@@ -1,40 +1,51 @@
 # Hey 👋, I'm Yoshitaka Ise (isystk)
-**Full-stack Engineer / System Engineer based in Hokkaido, Japan**,
 
-[![Github](https://img.shields.io/github/followers/isystk?label=Follow&style=social)](https://github.com/isystk)
+**Full-stack Engineer based in Hakodate, Hokkaido — Fully Remote**
 
-オープンソースを愛し、特に **Vim** と **TypeScript** を活用した開発に情熱を注いでいます。現在は、バックエンドからフロントエンド、インフラ（AWS/Docker）まで幅広く手掛けています,,。
+[![Twitter Follow](https://img.shields.io/twitter/follow/ise0615?style=social)](https://twitter.com/ise0615)
+[![Github Followers](https://img.shields.io/github/followers/isystk?label=Follow&style=social)](https://github.com/isystk)
+
+IT業界歴20年。SIerでの基幹システム開発（Java/Oracle）を起点に、独立後はソーシャルゲームや大規模BtoCサービスでモダンなフロントエンド（React/Next.js）とスケーラブルなバックエンド構築を数多く手がけてきました。
+
+現在は北海道・函館を拠点にフルリモートで活動。実装だけでなく、アーキテクチャ設計・CI/CD構築・セキュリティ対策までを一気通貫で支援しています。YouTube/Blogでの技術発信も継続中です。
 
 ---
 
 ## 🚀 Technical Skills
 
-ソースから確認できる、これまでの開発経験に基づいた技術スタックです。
+| 領域 | 技術 |
+|---|---|
+| Frontend | TypeScript, React / Next.js (App Router), Vue / Nuxt 3, Tailwind CSS |
+| Backend | PHP (Laravel 11), Node.js (NestJS + Prisma + GraphQL), Kotlin / Spring Boot |
+| Database | MySQL（レプリケーション/パーティショニング設計）, DynamoDB |
+| Infra / DevOps | AWS (Lambda, Kinesis Video Stream, Amplify, AppSync), Docker, Vercel, Terraform, GitHub Actions |
+| Others | Stripe決済, WebRTC, WebSocket, OAuth, セキュアコーディング |
 
-- **Languages:** TypeScript, PHP, Kotlin, Java, Vue (Nuxt3), React (Next.js),,
-- **Frameworks:** Laravel, Spring Boot 2, Vuetify3,,
-- **Cloud/Infrastructure:** AWS (Lambda, Kinesis Video Stream, Amplify), Docker, Vercel,
-- **Tooling/DevOps:** CircleCI, Storybook, Vim,
-- **Others:** Stripe (決済処理), WebSocket, OAuth (ソーシャルログイン), オブジェクトストレージ,
+**保有資格:** LPIC Level1 / Oracle Master Silver ほか
 
 ---
 
-## 🛠 Featured Projects
+## 🛠 Featured Outputs
 
-学習者や開発チームに役立つ**ボイラープレート（テンプレート）**を中心に公開しています。
+- **[武蔵トレード](https://musashi-trade.isystk.com/)** — 個人トレーダー向けリアルタイム分析ツール。公式X開設1ヶ月でフォロワー1,000人突破
+- **[laravel-react-boilerplate](https://blog.isystk.com/web_production/boilerplate/1472/)** — Laravel 12 & React 19構成のECサイトテンプレート。クリーンアーキテクチャ導入例
+- **[kotlin-springboot-boilerplate](https://blog.isystk.com/system_develop/backend/springboot/722/)** — 大規模プロジェクト向けSpringBootテンプレート
+- **[react-video-chat (WebRTC)](https://blog.isystk.com/web_production/react/1686/)** — AWS Kinesis Video Stream & Lambda WebSocketを用いたビデオ通話アプリ
+- **[XSSカイジ](https://blog.isystk.com/tech/dev-log/214/)** — 脆弱性を体験として学ぶセキュリティ学習ツール
+- **[JSの学び舎](https://www.youtube.com/@isystk)** — TypeScript/React/Next.js解説YouTubeチャンネル
 
-- **[laravel-react-boilerplate](https://github.com/isystk/laravel-react-boilerplate)**
-  - Docker環境、Stripe決済、マルチログイン機能を備えたECサイト学習用サンプル。
-- **[kotlin-springboot-boilerplate](https://github.com/isystk/kotlin-springboot-boilerplate)**
-  - KotlinとSpringBoot2を用いた本格的なECサイト開発用テンプレート。
-- **[react-video-chat](https://github.com/isystk/react-video-chat)**
-  - AWS Kinesis Video StreamとLambda WebSocketを利用したビデオチャットアプリ。
-- **[amplify-nuxt3-sample](https://github.com/isystk/amplify-nuxt3-sample)**
-  - Nuxt3、Vuetify3、AWS Amplifyを組み合わせたモダンな構成。
+---
+
+## 📰 News
+
+- **2026-07** ポートフォリオをNext.js 16へアップグレード（App Router移行、Vitest v4/Storybook v10.5対応）
+- **2026-06** 武蔵トレード公式Xが開設1ヶ月でフォロワー1,000人突破
+- **2025-01** Alexaスキル「日本のトレンドニュース」を公開
 
 ---
 
 ## 🔗 Links
-- **Portfolio:** [profile.isystk.com](http://profile.isystk.com/) (Nuxt3 & CircleCI & Vercel),
-- **X (Twitter):** [@ise0615](https://x.com/ise0615)
 
+- **Portfolio:** [profile.isystk.com](http://profile.isystk.com/)
+- **Blog:** [blog.isystk.com](https://blog.isystk.com/)
+- **X (Twitter):** [@ise0615](https://x.com/ise0615)
